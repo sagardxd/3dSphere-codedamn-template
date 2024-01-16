@@ -15,5 +15,7 @@ const sizes = {
     height: window.innerHeight
 }
 
+//write your code from here
+
 
 export { scene, mesh, sizes};

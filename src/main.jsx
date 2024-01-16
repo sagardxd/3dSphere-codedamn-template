@@ -73,8 +73,10 @@ if(canvas){
         window.requestAnimationFrame(loop)
     }
     loop()
-    
 }
+
+//write your code from here
+
 
 
 export { scene, mesh, sizes, camera, light}

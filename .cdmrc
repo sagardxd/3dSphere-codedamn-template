@@ -1,4 +1,4 @@
-tabs: ['index.html', 'src/main.jsx', 'styles.css']
+tabs: ['index.html', 'src/main.jsx']
 terminals: ["bun install && bun run dev"]
 run-button: bun run dev
 

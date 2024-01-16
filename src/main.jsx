@@ -33,8 +33,9 @@ if (canvas) {
     renderer.setSize(sizes.width, sizes.height);
     renderer.setPixelRatio(2);
     renderer.render(scene, camera);
-
 }
+
+//write your code from here
 
 
 export { scene, mesh, sizes, camera, light };
